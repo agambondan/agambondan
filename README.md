@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 agam here. want to know about me, click the link below :
+[Linktree](https://linktr.ee/frmngm)
 
 <!--
 **agambondan/agambondan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
