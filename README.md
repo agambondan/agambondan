@@ -1,5 +1,9 @@
-### Hi there 👋 agam here. want to know about me, click the link below :
-[Linktree](https://linktr.ee/frmngm)
+## Hi there 👋 agam here. want to know about me, click the link below :
+
+- [Linktree](https://linktr.ee/frmngm)
+- [Stackoverflow](https://stackoverflow.com/users/16461052/firman-agam)
+- [hackerrank](https://www.hackerrank.com/agamwork28?hr_r=1)
+- [coderbyte](https://coderbyte.com/profile/agambondan)
 
 <!--
 **agambondan/agambondan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
